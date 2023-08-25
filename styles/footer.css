@@ -1,0 +1,13 @@
+.hr {
+    margin: 0;
+}
+
+.rodape {
+    background: var(--azul-degrade);
+    color: var(--branco);
+    padding: 1em;
+}
+
+.lista-rodape {
+    display: none;
+}
